@@ -1,0 +1,28 @@
+<appaction uniquename="apc_GetLocation!a4c22c5fb71746b884afeb1bda533557!apc_AMPIHelpDesk!apc_ticketoperation!0">
+  <appmoduleid>
+    <uniquename>apc_AMPIHelpDesk</uniquename>
+  </appmoduleid>
+  <buttonlabeltext default="Get Location">
+    <label description="Get Location" languagecode="1033" />
+  </buttonlabeltext>
+  <buttonsequencepriority>15.0000000000</buttonsequencepriority>
+  <context>1</context>
+  <contextentity>
+    <logicalname>apc_ticketoperation</logicalname>
+  </contextentity>
+  <contextvalue>apc_ticketoperation</contextvalue>
+  <fonticon>$clientsvg:Pin</fonticon>
+  <hidden>0</hidden>
+  <iscustomizable>1</iscustomizable>
+  <location>0</location>
+  <name>GetLocation!a4c22c5fb71746b884afeb1bda533557</name>
+  <onclickeventjavascriptfunctionname>OpenSidePanel</onclickeventjavascriptfunctionname>
+  <onclickeventjavascriptparameters>[{"type":5}]</onclickeventjavascriptparameters>
+  <onclickeventjavascriptwebresourceid>
+    <webresourceid>e53624b9-3f9f-ec11-b3fe-6045bd8bd797</webresourceid>
+  </onclickeventjavascriptwebresourceid>
+  <onclickeventtype>2</onclickeventtype>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+  <type>0</type>
+</appaction>
